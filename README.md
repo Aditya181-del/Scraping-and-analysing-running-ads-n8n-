@@ -115,6 +115,3 @@ Click **"Execute Workflow"** (or **"Test workflow"**). All nodes will process se
 For complete comparative matrices and video timeline teardowns, refer to `facebook_ad_library_mysivi_report.html`.
 
 ---
-
-## License
-MIT License. Free for commercial and non-commercial use.
